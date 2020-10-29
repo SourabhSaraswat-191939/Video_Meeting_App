@@ -1,0 +1,19 @@
+{
+  "name": "video_calling_app",
+  "version": "1.0.0",
+  "description": "Video Calling App For Teachers and Students Interactions .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SourabhSaraswat/Video_Meeting_App.git"
+  },
+  "author": "Sourabh Saraswat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SourabhSaraswat/Video_Meeting_App/issues"
+  },
+  "homepage": "https://github.com/SourabhSaraswat/Video_Meeting_App#readme"
+}
